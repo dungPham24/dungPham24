@@ -1,4 +1,4 @@
-### Hello everyone, welcome to Dũng Phạm GitHub.👋
+### Hello everyone, welcome to Dũng Phạm GitHub 👋
 
 <a href="#" target="_blank">
   <img src="svg/dungpham.svg" width="1200" alt="dungpham" />
