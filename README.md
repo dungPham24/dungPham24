@@ -4,7 +4,6 @@
   <img src="svg/dungpham.svg" width="1200" alt="dungpham" />
 </a>
 
-
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -36,5 +35,26 @@
   </a>
   <a href="#" title="Dũng Phạm"
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
+
+
+
+<br>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://facebook.com/colenbana" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dungpham" />
+  </a>
+  <a href="https://www.linkedin.com/in/dung-pham-reactjs" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/dungphamit24" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  </a>
+  <a href="mailto:dungphamdeveloper24@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
