@@ -1,8 +1,5 @@
 ### Hello everyone, welcome to Dũng Phạm GitHub 👋
 
-<a href="#" target="_blank">
-  <img src="svg/dungpham.svg" width="1200" alt="dungpham" />
-</a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
